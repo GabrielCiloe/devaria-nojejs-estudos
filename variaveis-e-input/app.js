@@ -10,4 +10,4 @@ let leituraDeCampo;
 readLine.question('Informe sua idade:', input => {
     leituraDeCampo = input
     console.log(`A idade do usuario é: ${leituraDeCampo}`)
-})
+});
